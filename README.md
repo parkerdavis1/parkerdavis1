@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parkerdavis1
 - 👀 I’m interested in music, sound, birding, coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any bird or music related coding project
+- 🌱 I’m currently learning web development (HTML, CSS, JS, 11ty, Svelte, etc...)
+- 💞️ I’m looking to collaborate on any bird, sound, or music related coding project
 - 📫 How to reach me: parkied at gmail dot com
 
 <!---
